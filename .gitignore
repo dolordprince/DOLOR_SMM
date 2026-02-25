@@ -1,11 +1,6 @@
-# Node.js
 node_modules/
-
-# Environment Variables
 .env
-.env.local
-.env.*.local
-
-# Build Artifacts
-/dist/
-/build/
+logs/
+build/
+.idea/
+.vscode/
